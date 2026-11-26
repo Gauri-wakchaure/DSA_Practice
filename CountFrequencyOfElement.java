@@ -22,6 +22,6 @@ public class CountFrequencyOfElement{
         if(isDuplicate == false){
                System.out.println(Array[i] + " -> " + Array1[i]);
             } 
-    }
+        }
     }
 }
