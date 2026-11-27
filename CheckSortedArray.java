@@ -9,8 +9,7 @@ public class CheckSortedArray{
         return true;
     }
     public static void main(String[] args) {
-        int Array[] = {1, 2, 3, 4, 6, 5};
-         
+         int Array[] = {1, 2, 3, 4, 5};
          boolean sorted = checkSortedArray(Array);
 
         if(sorted == true){
