@@ -1,6 +1,6 @@
 public class Difference_LargestAndSmallest{
     public static void main(String[] args) {
-        int Array[] = {10, 20, 5, 15};
+        int Array[] = {10, 20, 5, 15, 3};
         int largest = Integer.MIN_VALUE;
         int smallest = Integer.MAX_VALUE;
 
