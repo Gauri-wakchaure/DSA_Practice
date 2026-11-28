@@ -25,6 +25,5 @@ public class FindMajorityElementUsingBoyer_Moore_Algo{
          if(frequency > Array.length/2){
                 System.out.println(candidate);
         }
-    }
-    
+    } 
 }
