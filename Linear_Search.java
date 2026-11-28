@@ -13,7 +13,7 @@ public class Linear_Search{
 
     public static void main(String args[]){
        int Array[] = {10, -23, 0, 45, -34, 23, 0, -45, 7};
-       int key = 23;
+       int key = 45;
        int keyFound = -1;
 
        keyFound = linearSearch(Array, key, keyFound);
@@ -23,7 +23,5 @@ public class Linear_Search{
        }else{
         System.out.println("Key Not Found");
        }
-    
-
     }
 }

@@ -10,8 +10,7 @@ public class CountFrequencyOfElement{
                 Array1[i] = count;
             }
         }   
-    }
-        
+    }       
         for(int i = 0; i < Array1.length; i++){
             boolean isDuplicate = false;
             for(int j = 0; j < i; j++){
