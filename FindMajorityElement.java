@@ -1,4 +1,5 @@
 public class FindMajorityElement{
+    // Find Majority Element using Basic Approach
     public static void main(String[] args) {
         int Array[] = {2, 2, 1, 2, 3, 2, 2};
 
